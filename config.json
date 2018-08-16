@@ -1,0 +1,69 @@
+{
+  "version" : "2.5.6",
+  "advertise" : {
+    "network" : "mediation",
+    "startup" : "yes",
+    "ending" : "yes",
+    "banner" : "yes",
+    "reward" : "yes"
+  },
+  "band" : {
+    "enable" : "yes",  
+    "item" : [
+      {
+        "image" : "",
+        "title" : "WingPoster",
+        "desc" : "Messenger Service",
+        "url" : "https://play.google.com/store/apps/details?id=com.morningsofts.wingposter&hl=ko"
+      },
+      {
+        "image" : "",
+        "title" : "악마맵",
+        "desc" : "Social Network Service",
+        "url" : "https://play.google.com/store/apps/details?id=com.devilmap.www.prod"
+      }      
+    ]
+  },
+  "market" : {
+    "enable" : "yes",
+    "item" : [
+      {
+        "image" : "",
+        "title" : "워치",
+        "desc" : "3G, android",
+        "price" : "30,000원",
+        "url" : "http://azac.co.kr/wordpress/order/item4"
+      },
+      {
+        "image" : "",
+        "title" : "휴대폰",
+        "desc" : "4G LTE, android, quard core",
+        "price" : "60,000원",
+        "url" : "http://azac.co.kr/wordpress/order/item3"
+      },      
+      {
+        "image" : "",
+        "title" : "태블릿",
+        "desc" : "10.1 in, windows 10, quard core",
+        "price" : "120,000원",
+        "url" : "http://azac.co.kr/wordpress/order/item1"
+      },
+      {
+        "image" : "",
+        "title" : "4K 디지털 카메라",
+        "desc" : "waterproof, 4K UHD",
+        "price" : "150,000원",
+        "url" : "http://azac.co.kr/wordpress/order/item7"
+      },      
+      {
+        "image" : "",
+        "title" : "노트북",
+        "desc" : "14 in, windows 10, quard core",
+        "price" : "220,000원",
+        "url" : "http://azac.co.kr/wordpress/order/item2"
+      }
+    ]
+  }
+}
+    
+  
