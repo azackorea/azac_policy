@@ -1,11 +1,40 @@
 {
   "version" : "2.5.6",
   "advertise" : {
-    "network" : "mediation",
+    "network" : {
+	  "mode" : "mediation",
+	  "appid" : 
+	  [
+	    {
+	      "vendor" : "admob",
+		  "banner" : "ca-app-pub-1728883935650966/6333070683",
+	      "interstitial" : "ca-app-pub-1728883935650966/5726156909",
+		  "reward" : "ca-app-pub-1728883935650966/5726156909",
+		  "native" : "ca-app-pub-1728883935650966/5726156909"
+        },
+		{
+	      "vendor" : "facebook",
+		  "banner" : "YOUR_PLACEMENT_ID",
+		  "interstitial" : "YOUR_PLACEMENT_ID",
+		  "reward" : "YOUR_PLACEMENT_ID",
+		  "native" : "YOUR_PLACEMENT_ID"
+        },
+		{
+	      "vendor" : "morningsoft",
+		  "banner" : "MORNING_APP_ID",
+		  "interstitial" : "MORNING_APP_ID",
+		  "reward" : "MORNING_APP_ID",
+		  "native" : "MORNING_APP_ID"
+		}
+	  ]
+	},
     "startup" : "yes",
     "ending" : "yes",
     "banner" : "yes",
-    "reward" : "yes"
+    "reward" : "yes",
+    "notice" : "yes",	
+    "search" : "yes",
+    "house" : "yes"	
   },
   "band" : {
     "enable" : "yes",  
@@ -26,44 +55,127 @@
   },
   "market" : {
     "enable" : "yes",
-    "item" : [
-      {
-        "image" : "",
-        "title" : "워치",
-        "desc" : "3G, android",
-        "price" : "30,000원",
-        "url" : "http://azac.co.kr/wordpress/order/item4"
+    "category" : [
+	  {
+        "name" : "신상품",
+        "item" : [
+          {
+            "image" : "",
+            "title" : "워치",
+            "desc" : "3G, android",
+            "price" : "30,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item1"
+          },
+          {
+            "image" : "",
+            "title" : "휴대폰",
+            "desc" : "4G LTE, android, quard core",
+            "price" : "60,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item2"
+          },      
+          {
+            "image" : "",
+            "title" : "태블릿",
+            "desc" : "10.1 in, windows 10, quard core",
+            "price" : "120,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item3"
+          },
+          {
+            "image" : "",
+            "title" : "4K 디지털 카메라",
+            "desc" : "waterproof, 4K UHD",
+            "price" : "150,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item4"
+          },
+          {
+            "image" : "",
+            "title" : "노트북",
+            "desc" : "4G Ram, Intel, windows 10",
+            "price" : "150,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item5"
+          }
+		]
       },
       {
-        "image" : "",
-        "title" : "휴대폰",
-        "desc" : "4G LTE, android, quard core",
-        "price" : "60,000원",
-        "url" : "http://azac.co.kr/wordpress/order/item3"
-      },      
-      {
-        "image" : "",
-        "title" : "태블릿",
-        "desc" : "10.1 in, windows 10, quard core",
-        "price" : "120,000원",
-        "url" : "http://azac.co.kr/wordpress/order/item1"
+        "name" : "명품",
+        "item" : [
+          {
+            "image" : "",
+            "title" : "루이비통",
+            "desc" : "1위",
+            "price" : "30,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item1"
+          },
+          {
+            "image" : "",
+            "title" : "에르메스",
+            "desc" : "2위",
+            "price" : "60,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item2"
+          },      
+          {
+            "image" : "",
+            "title" : "구찌",
+            "desc" : "3위",
+            "price" : "120,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item3"
+          },
+          {
+            "image" : "",
+            "title" : "까르띠에",
+            "desc" : "4위",
+            "price" : "150,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item4"
+          },
+          {
+            "image" : "",
+            "title" : "롤렉스",
+            "desc" : "5위",
+            "price" : "150,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item5"
+          }
+		]
       },
       {
-        "image" : "",
-        "title" : "4K 디지털 카메라",
-        "desc" : "waterproof, 4K UHD",
-        "price" : "150,000원",
-        "url" : "http://azac.co.kr/wordpress/order/item7"
-      },      
-      {
-        "image" : "",
-        "title" : "노트북",
-        "desc" : "14 in, windows 10, quard core",
-        "price" : "220,000원",
-        "url" : "http://azac.co.kr/wordpress/order/item2"
+        "name" : "요청품",
+        "item" : [
+          {
+            "image" : "",
+            "title" : "손선풍기",
+            "desc" : "3G, android",
+            "price" : "30,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item1"
+          },
+          {
+            "image" : "",
+            "title" : "USB핫팩",
+            "desc" : "4G LTE, android, quard core",
+            "price" : "60,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item2"
+          },      
+          {
+            "image" : "",
+            "title" : "USB건전지",
+            "desc" : "10.1 in, windows 10, quard core",
+            "price" : "120,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item3"
+          },
+          {
+            "image" : "",
+            "title" : "운동화",
+            "desc" : "waterproof, 4K UHD",
+            "price" : "150,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item4"
+          },
+          {
+            "image" : "",
+            "title" : "패션가방",
+            "desc" : "waterproof, 4K UHD",
+            "price" : "150,000원",
+            "url" : "http://azac.co.kr/wordpress/order/item5"
+          }
+		]      
       }
     ]
   }
 }
-    
-  
