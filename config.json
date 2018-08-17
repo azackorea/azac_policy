@@ -2,32 +2,32 @@
   "version" : "2.5.6",
   "advertise" : {
     "network" : {
-	  "mode" : "mediation",
-	  "appid" : 
-	  [
-	    {
-	      "vendor" : "admob",
-		  "banner" : "ca-app-pub-1728883935650966/6333070683",
-	      "interstitial" : "ca-app-pub-1728883935650966/5726156909",
-		  "reward" : "ca-app-pub-1728883935650966/5726156909",
-		  "native" : "ca-app-pub-1728883935650966/5726156909"
+      "mode" : "mediation",
+      "appid" : 
+      [
+        {
+	  "vendor" : "admob",
+	  "banner" : "ca-app-pub-1728883935650966/6333070683",
+	  "interstitial" : "ca-app-pub-1728883935650966/5726156909",
+	  "reward" : "ca-app-pub-1728883935650966/5726156909",
+	  "native" : "ca-app-pub-1728883935650966/5726156909"
         },
-		{
-	      "vendor" : "facebook",
-		  "banner" : "YOUR_PLACEMENT_ID",
-		  "interstitial" : "YOUR_PLACEMENT_ID",
-		  "reward" : "YOUR_PLACEMENT_ID",
-		  "native" : "YOUR_PLACEMENT_ID"
+	{
+	  "vendor" : "facebook",
+	  "banner" : "YOUR_PLACEMENT_ID",
+	  "interstitial" : "YOUR_PLACEMENT_ID",
+	  "reward" : "YOUR_PLACEMENT_ID",
+	  "native" : "YOUR_PLACEMENT_ID"
         },
-		{
-	      "vendor" : "morningsoft",
-		  "banner" : "MORNING_APP_ID",
-		  "interstitial" : "MORNING_APP_ID",
-		  "reward" : "MORNING_APP_ID",
-		  "native" : "MORNING_APP_ID"
-		}
-	  ]
-	},
+	{
+	  "vendor" : "morningsoft",
+	  "banner" : "MORNING_APP_ID",
+	  "interstitial" : "MORNING_APP_ID",
+	  "reward" : "MORNING_APP_ID",
+	  "native" : "MORNING_APP_ID"
+	}
+      ]
+    },
     "startup" : "yes",
     "ending" : "yes",
     "banner" : "yes",
