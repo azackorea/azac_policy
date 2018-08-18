@@ -13,14 +13,14 @@
           "native" : "ca-app-pub-1728883935650966/5726156909"
         },
         {
-          "provider" : "facebook",
+          "provider" : "AudienceNetwork",
           "banner" : "YOUR_PLACEMENT_ID",
           "interstitial" : "YOUR_PLACEMENT_ID",
           "reward" : "YOUR_PLACEMENT_ID",
           "native" : "YOUR_PLACEMENT_ID"
         },
         {
-          "provider" : "morningsoft",
+          "provider" : "MorningAds",
           "banner" : "MORNING_APP_ID",
           "interstitial" : "MORNING_APP_ID",
           "reward" : "MORNING_APP_ID",
