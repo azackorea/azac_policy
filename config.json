@@ -65,6 +65,7 @@
             "title" : "워치",
             "desc" : "3G, android",
             "price" : "30,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/newest/item1"
           },
           {
@@ -72,6 +73,7 @@
             "title" : "휴대폰",
             "desc" : "4G LTE, android, quard core",
             "price" : "60,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/newest/item2"
           },
           {
@@ -79,6 +81,7 @@
             "title" : "태블릿",
             "desc" : "10.1 in, windows 10, quard core",
             "price" : "120,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/newest/item3"
           },
           {
@@ -86,6 +89,7 @@
             "title" : "디지털 카메라",
             "desc" : "waterproof, 4K UHD",
             "price" : "150,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/newest/item4"
           },
           {
@@ -93,6 +97,7 @@
             "title" : "노트북",
             "desc" : "4G Ram, Intel, windows 10",
             "price" : "150,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/newest/item5"
           }
         ]
@@ -112,6 +117,7 @@
             "title" : "에르메스",
             "desc" : "2위",
             "price" : "1000,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/masterpiece/item2"
           },
           {
@@ -119,6 +125,7 @@
             "title" : "구찌",
             "desc" : "3위",
             "price" : "1000,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/masterpiece/item3"
           },
           {
@@ -126,6 +133,7 @@
             "title" : "까르띠에",
             "desc" : "4위",
             "price" : "1000,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/masterpiece/item4"
           },
           {
@@ -133,6 +141,7 @@
             "title" : "롤렉스",
             "desc" : "5위",
             "price" : "1000,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/masterpiece/item5"
           }
         ]
@@ -145,6 +154,7 @@
             "title" : "손선풍기",
             "desc" : "battery",
             "price" : "10,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/request/item1"
           },
           {
@@ -152,6 +162,7 @@
             "title" : "외장베터리",
             "desc" : "50000mh",
             "price" : "80,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/request/item2"
           },
           {
@@ -159,6 +170,7 @@
             "title" : "USB건전지",
             "desc" : "10개",
             "price" : "10,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/request/item3"
           },
           {
@@ -166,6 +178,7 @@
             "title" : "운동화",
             "desc" : "Fasion",
             "price" : "10,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/request/item4"
           },
           {
@@ -173,6 +186,7 @@
             "title" : "패션가방",
             "desc" : "Fasion",
             "price" : "10,000원",
+            "remain" : "10",
             "url" : "http://azac.co.kr/wordpress/order/request/item5"
           }
         ]
