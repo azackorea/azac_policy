@@ -6,21 +6,21 @@
       "appid" : 
       [
         {
-          "vendor" : "admob",
+          "provider" : "admob",
           "banner" : "ca-app-pub-1728883935650966/6333070683",
           "interstitial" : "ca-app-pub-1728883935650966/5726156909",
           "reward" : "ca-app-pub-1728883935650966/5726156909",
           "native" : "ca-app-pub-1728883935650966/5726156909"
         },
         {
-          "vendor" : "facebook",
+          "provider" : "facebook",
           "banner" : "YOUR_PLACEMENT_ID",
           "interstitial" : "YOUR_PLACEMENT_ID",
           "reward" : "YOUR_PLACEMENT_ID",
           "native" : "YOUR_PLACEMENT_ID"
         },
         {
-          "vendor" : "morningsoft",
+          "provider" : "morningsoft",
           "banner" : "MORNING_APP_ID",
           "interstitial" : "MORNING_APP_ID",
           "reward" : "MORNING_APP_ID",
@@ -33,8 +33,9 @@
     "banner" : "yes",
     "reward" : "yes",
     "notice" : "yes",
-    "search" : "yes",
-    "house" : "yes"
+    "nativeB" : "yes",
+    "nativeR" : "yes",
+    "owner" : "yes"
   },
   "band" : {
     "enable" : "yes",  
@@ -64,35 +65,35 @@
             "title" : "워치",
             "desc" : "3G, android",
             "price" : "30,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item1"
+            "url" : "http://azac.co.kr/wordpress/order/newest/item1"
           },
           {
             "image" : "",
             "title" : "휴대폰",
             "desc" : "4G LTE, android, quard core",
             "price" : "60,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item2"
+            "url" : "http://azac.co.kr/wordpress/order/newest/item2"
           },
           {
             "image" : "",
             "title" : "태블릿",
             "desc" : "10.1 in, windows 10, quard core",
             "price" : "120,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item3"
+            "url" : "http://azac.co.kr/wordpress/order/newest/item3"
           },
           {
             "image" : "",
-            "title" : "4K 디지털 카메라",
+            "title" : "디지털 카메라",
             "desc" : "waterproof, 4K UHD",
             "price" : "150,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item4"
+            "url" : "http://azac.co.kr/wordpress/order/newest/item4"
           },
           {
             "image" : "",
             "title" : "노트북",
             "desc" : "4G Ram, Intel, windows 10",
             "price" : "150,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item5"
+            "url" : "http://azac.co.kr/wordpress/order/newest/item5"
           }
         ]
       },
@@ -103,36 +104,36 @@
             "image" : "",
             "title" : "루이비통",
             "desc" : "1위",
-            "price" : "30,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item1"
+            "price" : "1000,000원",
+            "url" : "http://azac.co.kr/wordpress/order/masterpiece/item1"
           },
           {
             "image" : "",
             "title" : "에르메스",
             "desc" : "2위",
-            "price" : "60,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item2"
+            "price" : "1000,000원",
+            "url" : "http://azac.co.kr/wordpress/order/masterpiece/item2"
           },
           {
             "image" : "",
             "title" : "구찌",
             "desc" : "3위",
-            "price" : "120,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item3"
+            "price" : "1000,000원",
+            "url" : "http://azac.co.kr/wordpress/order/masterpiece/item3"
           },
           {
             "image" : "",
             "title" : "까르띠에",
             "desc" : "4위",
-            "price" : "150,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item4"
+            "price" : "1000,000원",
+            "url" : "http://azac.co.kr/wordpress/order/masterpiece/item4"
           },
           {
             "image" : "",
             "title" : "롤렉스",
             "desc" : "5위",
-            "price" : "150,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item5"
+            "price" : "1000,000원",
+            "url" : "http://azac.co.kr/wordpress/order/masterpiece/item5"
           }
         ]
       },
@@ -142,37 +143,37 @@
           {
             "image" : "",
             "title" : "손선풍기",
-            "desc" : "3G, android",
-            "price" : "30,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item1"
+            "desc" : "battery",
+            "price" : "10,000원",
+            "url" : "http://azac.co.kr/wordpress/order/request/item1"
           },
           {
             "image" : "",
             "title" : "외장베터리",
-            "desc" : "4G LTE, android, quard core",
-            "price" : "60,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item2"
+            "desc" : "50000mh",
+            "price" : "80,000원",
+            "url" : "http://azac.co.kr/wordpress/order/request/item2"
           },
           {
             "image" : "",
             "title" : "USB건전지",
-            "desc" : "10.1 in, windows 10, quard core",
-            "price" : "120,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item3"
+            "desc" : "10개",
+            "price" : "10,000원",
+            "url" : "http://azac.co.kr/wordpress/order/request/item3"
           },
           {
             "image" : "",
             "title" : "운동화",
-            "desc" : "waterproof, 4K UHD",
-            "price" : "150,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item4"
+            "desc" : "Fasion",
+            "price" : "10,000원",
+            "url" : "http://azac.co.kr/wordpress/order/request/item4"
           },
           {
             "image" : "",
             "title" : "패션가방",
-            "desc" : "waterproof, 4K UHD",
-            "price" : "150,000원",
-            "url" : "http://azac.co.kr/wordpress/order/item5"
+            "desc" : "Fasion",
+            "price" : "10,000원",
+            "url" : "http://azac.co.kr/wordpress/order/request/item5"
           }
         ]
       }
