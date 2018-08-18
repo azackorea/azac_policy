@@ -6,26 +6,26 @@
       "appid" : 
       [
         {
-	  "vendor" : "admob",
-	  "banner" : "ca-app-pub-1728883935650966/6333070683",
-	  "interstitial" : "ca-app-pub-1728883935650966/5726156909",
-	  "reward" : "ca-app-pub-1728883935650966/5726156909",
-	  "native" : "ca-app-pub-1728883935650966/5726156909"
+          "vendor" : "admob",
+          "banner" : "ca-app-pub-1728883935650966/6333070683",
+          "interstitial" : "ca-app-pub-1728883935650966/5726156909",
+          "reward" : "ca-app-pub-1728883935650966/5726156909",
+          "native" : "ca-app-pub-1728883935650966/5726156909"
         },
-	{
-	  "vendor" : "facebook",
-	  "banner" : "YOUR_PLACEMENT_ID",
-	  "interstitial" : "YOUR_PLACEMENT_ID",
-	  "reward" : "YOUR_PLACEMENT_ID",
-	  "native" : "YOUR_PLACEMENT_ID"
+        {
+          "vendor" : "facebook",
+          "banner" : "YOUR_PLACEMENT_ID",
+          "interstitial" : "YOUR_PLACEMENT_ID",
+          "reward" : "YOUR_PLACEMENT_ID",
+          "native" : "YOUR_PLACEMENT_ID"
         },
-	{
-	  "vendor" : "morningsoft",
-	  "banner" : "MORNING_APP_ID",
-	  "interstitial" : "MORNING_APP_ID",
-	  "reward" : "MORNING_APP_ID",
-	  "native" : "MORNING_APP_ID"
-	}
+        {
+          "vendor" : "morningsoft",
+          "banner" : "MORNING_APP_ID",
+          "interstitial" : "MORNING_APP_ID",
+          "reward" : "MORNING_APP_ID",
+          "native" : "MORNING_APP_ID"
+        }
       ]
     },
     "startup" : "yes",
@@ -56,7 +56,7 @@
   "market" : {
     "enable" : "yes",
     "category" : [
-	  {
+       {
         "name" : "신상품",
         "item" : [
           {
@@ -94,7 +94,7 @@
             "price" : "150,000원",
             "url" : "http://azac.co.kr/wordpress/order/item5"
           }
-		]
+        ]
       },
       {
         "name" : "명품",
@@ -134,7 +134,7 @@
             "price" : "150,000원",
             "url" : "http://azac.co.kr/wordpress/order/item5"
           }
-		]
+        ]
       },
       {
         "name" : "요청품",
@@ -148,7 +148,7 @@
           },
           {
             "image" : "",
-            "title" : "USB핫팩",
+            "title" : "외장베터리",
             "desc" : "4G LTE, android, quard core",
             "price" : "60,000원",
             "url" : "http://azac.co.kr/wordpress/order/item2"
@@ -174,7 +174,7 @@
             "price" : "150,000원",
             "url" : "http://azac.co.kr/wordpress/order/item5"
           }
-		]      
+        ]      
       }
     ]
   }
