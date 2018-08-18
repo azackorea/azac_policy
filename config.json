@@ -32,9 +32,9 @@
     "ending" : "yes",
     "banner" : "yes",
     "reward" : "yes",
-    "notice" : "yes",	
+    "notice" : "yes",
     "search" : "yes",
-    "house" : "yes"	
+    "house" : "yes"
   },
   "band" : {
     "enable" : "yes",  
@@ -50,7 +50,7 @@
         "title" : "악마맵",
         "desc" : "Social Network Service",
         "url" : "https://play.google.com/store/apps/details?id=com.devilmap.www.prod"
-      }      
+      }
     ]
   },
   "market" : {
@@ -72,7 +72,7 @@
             "desc" : "4G LTE, android, quard core",
             "price" : "60,000원",
             "url" : "http://azac.co.kr/wordpress/order/item2"
-          },      
+          },
           {
             "image" : "",
             "title" : "태블릿",
@@ -112,7 +112,7 @@
             "desc" : "2위",
             "price" : "60,000원",
             "url" : "http://azac.co.kr/wordpress/order/item2"
-          },      
+          },
           {
             "image" : "",
             "title" : "구찌",
@@ -152,7 +152,7 @@
             "desc" : "4G LTE, android, quard core",
             "price" : "60,000원",
             "url" : "http://azac.co.kr/wordpress/order/item2"
-          },      
+          },
           {
             "image" : "",
             "title" : "USB건전지",
@@ -174,7 +174,7 @@
             "price" : "150,000원",
             "url" : "http://azac.co.kr/wordpress/order/item5"
           }
-        ]      
+        ]
       }
     ]
   }
