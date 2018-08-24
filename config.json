@@ -2,7 +2,7 @@
   "version" : "2.5.6",
   "advertise" : {
     "network" : {
-      "mode" : "FBmediation",
+      "mode" : "mediation",
       "appid" : 
       [
         {
@@ -29,7 +29,7 @@
       ]
     },
     "startup" : "yes",
-    "ending" : "yes",
+    "ending" : "no",
     "banner" : "yes",
     "reward" : "yes",
     "notice" : "yes",
